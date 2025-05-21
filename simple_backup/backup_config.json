@@ -1,0 +1,9 @@
+{
+  "sources": [
+    "./source_data_1",
+    "./source_data_2",
+    "../another_project_to_backup" 
+  ],
+  "destination": "./backup_destination_configured",
+  "archive_format": "zip" 
+}
